@@ -9,7 +9,7 @@ int main() {
 	std::cout << sum;
 	std::cout << '\n';
 
-	int sum;
+	int sum = num1 + num2;
 
 	return 0;
 
