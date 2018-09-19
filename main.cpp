@@ -1,11 +1,14 @@
+#include <iostream>
 
-int main() 
+int main()
 {
-	#include <iostream>
-	cout << "You have " << homework << " assignments left.\n";
-	homework = 5;
-	homework = 12;
-	cout << "I have " << homework << " assignments left.\n";
+	
 	int homework;
-}
+  homework = 12;
+	std::cout << "You have " << homework << " assignments left.\n";
+
+	homework = 5;
+	std::cout << "I have " << homework << " assignments left.\n";
+
 return 0;
+}
