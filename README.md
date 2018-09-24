@@ -1,2 +1,3 @@
 # Correct-The-Program
-Correct the following program to make a working one.
+Correct the fixthis.cpp program to make a working one.
+Upload the correct program as a different file name.
